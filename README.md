@@ -1,4 +1,4 @@
-# Proyecto_IA_Clasificador-de-plantas-de-interior-y-exterior-t-xicas-para-los-felinos
+# Proyecto final - Clasificador de plantas de interior y exterior tóxicas para felinos
 - Proyecto Final Inteligencia Artificial I, 2024-2
 # Banner
 Link
