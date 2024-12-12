@@ -1,7 +1,7 @@
 # Proyecto final - Clasificador de plantas de interior y exterior tóxicas para felinos
 - Proyecto Final Inteligencia Artificial I, 2024-2
 # Banner
-![Texto alternativo de la imagen](https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/images/tu-imagen.png)
+![Texto alternativo de la imagen](https://github.com/Sanabria0822/Toxic-and-non-toxic-species-classifier/blob/main/banner-proyecto-final.png?raw=true)
 
 # Autores
 - Angélica María Sanabria Flórez - 2205564
