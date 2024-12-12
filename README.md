@@ -2,7 +2,8 @@
 - Proyecto Final Inteligencia Artificial I, 2024-2
 # Banner
 <div align="center">
-    <img src="./assets/tu-banner.png" alt="Banner del Proyecto" width="100%">
+    <img src="![image](https://github.com/user-attachments/assets/39128be2-e4d0-4402-a633-9a001c1fff11)
+" alt="Banner del Proyecto" width="100%">
 </div>
 
 # Autores
