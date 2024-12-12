@@ -14,6 +14,7 @@
 - Desarrollar un sistema de clasificación que identifique plantas de interior como tóxicas o no tóxicas para los felinos, con el fin de promover la seguridad de las mascotas y mejorar la toma de decisiones de los dueños al elegir plantas para sus hogares.
 # Dataset
 - https://www.kaggle.com/datasets/kacpergregorowicz/house-plant-species
+
 House Plant Species: Este conjunto consta de 8.250 imágenes categorizadas en 47 clases de especies de plantas de interior y exterior en el hogar recopiladas de Bing Images y seleccionadas manualmente por el autor de este dataset.
 
 Composición del conjunto de datos:
