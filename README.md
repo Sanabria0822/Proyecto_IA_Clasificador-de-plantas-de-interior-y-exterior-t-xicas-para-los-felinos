@@ -1,6 +1,7 @@
 # Proyecto final - Clasificador de plantas de interior y exterior tóxicas para felinos
 - Proyecto Final Inteligencia Artificial I, 2024-2
 # Banner
+![Descripción del banner]([https://github.com/user-attachments/assets/da3f642e-a8fc-49dc-8a12-e3f3e8c53812])
 <div align="center">
     <img src="![image](https://github.com/user-attachments/assets/da3f642e-a8fc-49dc-8a12-e3f3e8c53812)
 " alt="Proyecto Final">
