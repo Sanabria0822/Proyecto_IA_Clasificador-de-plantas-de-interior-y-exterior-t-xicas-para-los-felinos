@@ -13,7 +13,7 @@ House Plant Species: Este conjunto consta de 8.250 imágenes categorizadas en 47
 
 Composición del conjunto de datos:
 - El número de imágenes por clase se distribuye en 4.125 especies tóxicas y 4.125 especies no tóxicas
-- 
+  
 Características de la imagen:
 - Las imágenes varían en calidad y resolución.
 - El conjunto de datos incluye imágenes de plantas completas y primeros planos de partes específicas de la planta.
