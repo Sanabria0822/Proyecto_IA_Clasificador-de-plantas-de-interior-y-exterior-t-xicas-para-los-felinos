@@ -10,6 +10,6 @@ Link
 - Desarrollar un sistema de clasificación que identifique plantas de interior como tóxicas o no tóxicas para los felinos, con el fin de promover la seguridad de las mascotas y mejorar la toma de decisiones de los dueños al elegir plantas para sus hogares.
 # Dataset
 - Este dataset de kaggle nos proporcionó toda la información utilizada
-- Link
+- https://www.kaggle.com/datasets/kacpergregorowicz/house-plant-species
 # Enlaces
 *[Código Notebook] *[Video] *[Repositorio]
