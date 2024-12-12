@@ -2,8 +2,7 @@
 - Proyecto Final Inteligencia Artificial I, 2024-2
 # Banner
 <div align="center">
-    <img src="![image](https://github.com/Sanabria0822/Toxic-and-non-toxic-species-classifier/blob/main/banner-proyecto-final.png?raw=true)
-" alt="Proyecto Final">
+    <img src="./assets/tu-banner.png" alt="Banner del Proyecto" width="100%">
 </div>
 
 # Autores
