@@ -26,4 +26,4 @@ Características de la imagen:
 # Enlaces
 - [Notebook](https://colab.research.google.com/drive/1e1kK7qRdfA0CnI8cCLmcW0vucYryT7CQ?usp=sharing)
 - [Video](https://youtu.be/9jLHBk0TuXk)
-- [Repositorio]()
+- [Repositorio](https://github.com/Sanabria0822/Toxic-and-non-toxic-species-classifier.git)
